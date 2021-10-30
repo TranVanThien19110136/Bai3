@@ -1,0 +1,4 @@
+musicStore/sound/8601/*.mp3
+musicStore/sound/pf01/*.mp3
+musicStore/sound/pf02/*.mp3
+musicStore/sound/jr01/*.mp3
